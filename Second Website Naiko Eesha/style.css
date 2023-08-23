@@ -1,0 +1,45 @@
+/* styles.css */
+/* Center the background image */
+.interface-image {
+  background-position: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+ 
+  z-index: -1;
+}
+/* Custom style for the content heading */
+h3 {
+    font-family: 'Helvetica', sans-serif; 
+    font-size: 25px; 
+    color: #050505;
+    text-align: center; /* Center the heading */
+  }
+  
+  h2 {
+    font-family: 'Helvetica', sans-serif; 
+    font-size: 25px; 
+    color: #050505;
+    text-align: center; /* Center the heading */
+  }
+  
+
+
+/* Set background color for the entire body */
+body {
+    background-color: #EEE4E7; 
+}
+
+/* Customize the logo image */
+.navbar-logo img {
+    width: 200px; /* Adjust the width as needed */
+    height: auto;
+}
+
+
+  /* Custom CSS for adjusting image size in the carousel */
+.carousel-item img {
+    max-width: 100%; 
+    height: auto;    
+}
